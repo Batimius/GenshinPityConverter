@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GenshinPityConverter/static/css/main.4c96dd3b.css",
+    "main.js": "/GenshinPityConverter/static/js/main.350861d7.js",
+    "index.html": "/GenshinPityConverter/index.html",
+    "main.4c96dd3b.css.map": "/GenshinPityConverter/static/css/main.4c96dd3b.css.map",
+    "main.350861d7.js.map": "/GenshinPityConverter/static/js/main.350861d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c96dd3b.css",
+    "static/js/main.350861d7.js"
+  ]
+}
