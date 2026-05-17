@@ -1,4 +1,7 @@
 # Genshin Impact Pity Converter
+> [!WARNING]
+> **Deprecated:** The HotGames.GG website has completely stopped working. With that in mind, this converter is completely useless. No further issues / discussions will be accepted. If you have some way to fetch the data needed for conversion, let me know (via Discord [@batimius] or email me via [contact@batimius.com](mailto:contact@batimius.com) so we can work something out.
+
 A simple website for converting your Genshin Impact wish history from HotGames.GG to other platforms.
 
 ## Instructions
